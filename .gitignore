@@ -1,0 +1,41 @@
+gamezone/node_modules/
+gamezone/.expo/
+npm-debug.*
+gamezone/*.jks
+gamezone/*.p8
+gamezone/*.p12
+gamezone/*.key
+gamezone/*.mobileprovision
+gamezone/*.orig.*
+gamezone/web-build/
+
+# macOS
+my-app-RN/.DS_Store
+
+my-app-RN/node_modules/
+my-app-RN/.expo/
+npm-debug.*
+my-app-RN/*.jks
+my-app-RN/*.p8
+my-app-RN/*.p12
+my-app-RN/*.key
+my-app-RN/*.mobileprovision
+my-app-RN/*.orig.*
+my-app-RN/web-build/
+
+# macOS
+my-app-RN/.DS_Store
+
+todo-app/node_modules/
+todo-app/.expo/
+npm-debug.*
+todo-app/*.jks
+todo-app/*.p8
+todo-app/*.p12
+todo-app/*.key
+todo-app/*.mobileprovision
+todo-app/*.orig.*
+todo-app/web-build/
+
+# macOS
+todo-app/.DS_Store
